@@ -3,7 +3,7 @@ sidebar: auto
 pageClass: custom-page-class
 ---
 
-# API
+# 接口一览
 
 ## Pixiv 随机图片
 
